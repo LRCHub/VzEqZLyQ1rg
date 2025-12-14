@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "今夜も眠れない(病的な意味で)",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-14T11:21:36.387053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今夜も眠れない (病的な意味で)",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/01_今夜も眠れない_(病的な意味で)_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Konya mo Nerenai (Byoteki na Imi de) (今夜も眠れない(病的な意味で))",
+      "artist": "Golden Bomber (ゴールデンボンバー)",
+      "has_synced": true,
+      "path": "select/02_Konya_mo_Nerenai_(Byoteki_na_Imi_de)_(今夜も眠れない(病的な意味で))_Golden_Bomber_(ゴールデンボンバー).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜も眠れない(病的な意味で)",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_今夜も眠れない(病的な意味で)_ゴールデンボンバー.txt"
+    }
+  ]
+}
